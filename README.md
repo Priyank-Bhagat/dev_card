@@ -2,9 +2,6 @@
     <img src="https://user-images.githubusercontent.com/115228605/194716592-af9046da-4faa-42fd-8dec-b78a5e9ac04a.png" alt="something was here🤔">
 </p>
 
-![ic_launcher](https://user-images.githubusercontent.com/115228605/194716592-af9046da-4faa-42fd-8dec-b78a5e9ac04a.png)
-
-
 # Devcard
 
 Devcard is my official app that contains information to contact me. 
@@ -14,8 +11,10 @@ Devcard is my official app that contains information to contact me. 
 
 You can contact me by directly clicking on Mobile Number📳 or Email Address✉️.
  
+![pho_open](https://user-images.githubusercontent.com/115228605/194716822-950f428f-dca1-414c-a71a-5db0cee2a516.gif)![emOpen](https://user-images.githubusercontent.com/115228605/194716788-b4079d91-7029-43cb-a680-866a512830d3.gif)
 
- ----add gif of opening----
+
+ 
 
 
  I also implemented a Dark🌃 and Light🌇 mode in the app to just care for your eyes.😇
