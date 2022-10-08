@@ -9,23 +9,22 @@ Devcard is my official app that contains information to contact me. 
 
 ## Demo
 
-You can contact me by directly clicking on Mobile Number📳 or Email Address✉️.
- 
- 
-<p>
+You can contact me by directly clicking on Mobile Number📳
+
+
+<p> 
     <img width="200" src="https://user-images.githubusercontent.com/115228605/194716822-950f428f-dca1-414c-a71a-5db0cee2a516.gif" alt="something was here🤔">
-
 </p>
+or Email Address✉️.
 
 <p>
-
     <img width="200" src="https://user-images.githubusercontent.com/115228605/194716788-b4079d91-7029-43cb-a680-866a512830d3.gif" alt="something was here🤔">
 </p>
 
 
+I also implemented a Dark🌃 and Light🌇 mode in the app to just care for your eyes.😇
 
-
- I also implemented a Dark🌃 and Light🌇 mode in the app to just care for your eyes.😇
+<img width="200" src="https://user-images.githubusercontent.com/115228605/194717343-4e07a8b6-a195-4d52-b9db-ae0513b6d0c3.gif" alt="something was here🤔">
 
 
 
@@ -55,4 +54,6 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 ## Feedback / Suggestion
 
-Just download Devcard[link] and contact me.🤗
+Just download [Devcard app]([quora.com/profile/Ashish-Kulkarni-100](https://github.com/Priyank-Bhagat/dev_card/raw/master/build/app/outputs/flutter-apk/app-release.apk)) and contact me.🤗
+
+
