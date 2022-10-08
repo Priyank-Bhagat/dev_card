@@ -17,11 +17,11 @@ You can contact me by directly clicking on Mobile Number📳 or Email 
 
 </p>
 
-<p>
+
 
     <img width="200" src="https://user-images.githubusercontent.com/115228605/194716788-b4079d91-7029-43cb-a680-866a512830d3.gif" alt="something was here🤔">
 
-</p>
+
 
 
 
