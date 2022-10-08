@@ -11,10 +11,11 @@ Devcard is my official app that contains information to contact me. 
 
 You can contact me by directly clicking on Mobile Number📳 or Email Address✉️.
  
-![pho_open](https://user-images.githubusercontent.com/115228605/194716822-950f428f-dca1-414c-a71a-5db0cee2a516.gif)![emOpen](https://user-images.githubusercontent.com/115228605/194716788-b4079d91-7029-43cb-a680-866a512830d3.gif)
-
-
  
+<p align="center">
+    <img width="200" src="https://user-images.githubusercontent.com/115228605/194716822-950f428f-dca1-414c-a71a-5db0cee2a516.gif" alt="something was here🤔">
+    <img width="200" src="https://user-images.githubusercontent.com/115228605/194716788-b4079d91-7029-43cb-a680-866a512830d3.gif" alt="something was here🤔">
+</p> 
 
 
  I also implemented a Dark🌃 and Light🌇 mode in the app to just care for your eyes.😇
