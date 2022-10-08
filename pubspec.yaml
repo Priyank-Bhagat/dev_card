@@ -1,0 +1,48 @@
+name: dev_card
+description: A  Flutter project.
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=2.18.2 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+
+  cupertino_icons: ^1.0.2
+  url_launcher: ^6.1.6
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^2.0.0
+
+
+flutter:
+
+  uses-material-design: true
+
+
+  assets:
+    - assets/image/coder.png
+
+
+
+  fonts:
+    - family: font1
+      fonts:
+        - asset: assets/fonts/font1.ttf
+
+    - family: font2
+      fonts:
+        - asset: assets/fonts/font2.ttf
+
+    - family: font3
+      fonts:
+        - asset: assets/fonts/Honesty-f3.ttf
+
