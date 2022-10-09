@@ -54,6 +54,6 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 ## Feedback / Suggestion
 
-Just download [Devcard app]([quora.com/profile/Ashish-Kulkarni-100](https://github.com/Priyank-Bhagat/dev_card/raw/master/build/app/outputs/flutter-apk/app-release.apk)) and contact me.🤗
+Just download [Devcard app](https://github.com/Priyank-Bhagat/dev_card/raw/master/build/app/outputs/flutter-apk/app-release.apk) and contact me.🤗
 
 
