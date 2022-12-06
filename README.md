@@ -32,25 +32,12 @@ I also implemented a Dark🌃 and Light🌇 mode in the app to just care for you
 ## Getting Started
 
 
-10
-This project is a starting point for a Flutter application.
-11
-​
-12
-A few resources to get you started if this is your first Flutter project:
-13
-​
-14
+​ This project is a starting point for a Flutter application.
+​ A few resources to get you started if this is your first Flutter project:
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-15
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-16
-​
-17
-For help getting started with Flutter development, view the
-18
+​ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
-19
 samples, guidance on mobile development, and a full API reference.
 ## Feedback / Suggestion
 
