@@ -26,11 +26,6 @@ I also implemented a Dark🌃 and Light🌇 mode in the app to just care for you
 
 <img width="200" src="https://user-images.githubusercontent.com/115228605/194717343-4e07a8b6-a195-4d52-b9db-ae0513b6d0c3.gif" alt="something was here🤔">
 
-# Download
-
-👉[Download ](https://mega.nz/file/QqdE1LBR#ouqiJGwmKT_4WmhVMk2w2tWVFsu4OAGmHoRCMTr_gcE)👈The DevCard App
-
-
 ## Getting Started
 
 
